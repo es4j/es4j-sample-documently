@@ -1,0 +1,12 @@
+*.ReSharper.user
+src/_ReSharper.*
+*.suo
+bin/
+obj/
+*.csproj.user
+Data/
+Logs/
+*.tmp_proj
+src/SharedAssemblyInfo.cs
+build/
+target/
